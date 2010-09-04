@@ -1,0 +1,18 @@
+RemoteTunes
+======================================
+
+MCE IR remote controls offer control over Windows Media Player and
+Windows Media Center. But if you use iTunes, you are left in the dark.
+The IR remote control will only work while iTunes is the foreground
+window, which hampers its utility.
+
+With RemoteTunes, you can leverage your MCE remote control's media
+buttons (play, pause, stop, previous track, next track) to control
+iTunes regardless of what application is the foreground window.
+
+RemoteTunes comes in two flavors: 32-bit and 64-bit. You must run BOTH
+flavors together if you are on Windows x64. If you are using Win32,
+then you only need to download and run the 32-bit version.
+
+RemoteTunes is based on the same codebase used for Grapple, so it is
+fairly compact and unintrusive.
